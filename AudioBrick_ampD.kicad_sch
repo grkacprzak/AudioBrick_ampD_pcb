@@ -100,7 +100,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "TPA3251"
+			(property "Value" "TPA313xD2"
 				(at 8.89 23.876 0)
 				(effects
 					(font
@@ -767,169 +767,6 @@
 		)
 	)
 	(symbol
-		(lib_id "a_gkac_Ki8:TPA313xD2")
-		(at 105.41 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "77c01fcd-df06-443a-8344-79fb488e18a7")
-		(property "Reference" "U1"
-			(at 117.094 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TPA3251"
-			(at 113.792 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias"
-			(at 103.124 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpa3131d2.pdf"
-			(at 105.41 126.746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "TPA313xD2 4-W, 25-W Filter-Free Class-D Stereo Amplifier With AM Avoidance"
-			(at 102.87 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "174dc045-e569-4626-aa5c-76bef026d6ec")
-		)
-		(pin "17"
-			(uuid "7bebf703-6550-4338-8176-6d0dbaea0962")
-		)
-		(pin "5"
-			(uuid "e0b3d1dc-d6e4-44b3-9a66-e676ddede364")
-		)
-		(pin "22"
-			(uuid "d7028b13-8daa-4550-a1b7-9f2dfa08915e")
-		)
-		(pin "29"
-			(uuid "25fd0578-9e6f-452e-8d9f-77e7ddb011f5")
-		)
-		(pin "13"
-			(uuid "8651eed3-d46c-4495-ae10-882baa481514")
-		)
-		(pin "14"
-			(uuid "b025fad9-a7f3-46f9-a9f3-30ba66a13ba4")
-		)
-		(pin "15"
-			(uuid "bbc28c64-e2f4-4bb3-bdd5-0b5675eed008")
-		)
-		(pin "20"
-			(uuid "b8d92f64-992c-4d9e-8cc7-c11c9d7cd144")
-		)
-		(pin "11"
-			(uuid "cacf8e56-a878-43eb-b975-17f184e8344e")
-		)
-		(pin "16"
-			(uuid "7514bef4-ed16-4696-8619-e9c8d2c003b6")
-		)
-		(pin "18"
-			(uuid "ac4bad8c-d13b-4755-b91b-b8ffaadc4f87")
-		)
-		(pin "19"
-			(uuid "e57fc675-8c7c-4f3f-bda7-8c429815c86c")
-		)
-		(pin "23"
-			(uuid "3c5c9041-ec84-4926-a575-09c6e1f930d6")
-		)
-		(pin "32"
-			(uuid "085e1876-d61e-4826-9b8a-21a125c60685")
-		)
-		(pin "24"
-			(uuid "cda6523e-9ea4-4144-a3fc-0e788ba14ca9")
-		)
-		(pin "12"
-			(uuid "cfabc9bd-eed9-4a5b-aa7e-c9d6837a3b83")
-		)
-		(pin "3"
-			(uuid "5fe23501-a93c-40bd-ac32-00ee287e8aee")
-		)
-		(pin "28"
-			(uuid "a4722e8b-e7d3-4eef-8f74-a4229b51efd4")
-		)
-		(pin "21"
-			(uuid "e95f069e-557b-4d79-96cb-66875fd02a22")
-		)
-		(pin "4"
-			(uuid "b3a3e2cf-d725-4d1d-a26d-feff05d7b788")
-		)
-		(pin "30"
-			(uuid "a47e0443-389a-4ad0-b0f4-84ebdee02de7")
-		)
-		(pin "2"
-			(uuid "6fa6406e-68eb-4a35-9329-a6de4dbaf005")
-		)
-		(pin "1"
-			(uuid "a4c5194e-7853-4933-8933-10613d012d7e")
-		)
-		(pin "27"
-			(uuid "913a2959-738e-4808-bdc2-6872f6c3c382")
-		)
-		(pin "9"
-			(uuid "09be281c-c0ea-4edd-93a1-3a5d230c88a0")
-		)
-		(pin "25"
-			(uuid "0751f1a8-6c49-4ebb-8a36-8adc1dfdd998")
-		)
-		(pin "8"
-			(uuid "ea4bee7c-7c89-480d-98a5-475535fcc0aa")
-		)
-		(pin "26"
-			(uuid "52859e19-380c-4ee7-ba43-cd67ded66947")
-		)
-		(pin "31"
-			(uuid "ff1645af-8ffa-46ba-98eb-6fe4ae8ec23e")
-		)
-		(pin "6"
-			(uuid "3e0400c2-15e8-4d6f-b78c-4a0c3f3ab1f3")
-		)
-		(pin "10"
-			(uuid "4ee43c73-6382-4f5e-b722-667418719aa6")
-		)
-		(pin "33"
-			(uuid "f4dfe754-584d-43f7-a97d-64e3ccda076b")
-		)
-		(instances
-			(project "AudioBrick_D-amp"
-				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 224.79 104.14 0)
 		(unit 1)
@@ -985,7 +822,7 @@
 			)
 		)
 		(instances
-			(project "AudioBrick_D-amp"
+			(project "AudioBrick_ampD"
 				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
 					(reference "H4")
 					(unit 1)
@@ -1049,7 +886,7 @@
 			)
 		)
 		(instances
-			(project "AudioBrick_D-amp"
+			(project "AudioBrick_ampD"
 				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
 					(reference "H1")
 					(unit 1)
@@ -1113,9 +950,173 @@
 			)
 		)
 		(instances
-			(project "AudioBrick_D-amp"
+			(project "AudioBrick_ampD"
 				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "a_gkac_Ki8:TPA313xD2")
+		(at 102.87 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6c6ff60-7d4a-4ced-9211-d1ef94794d95")
+		(property "Reference" "U1"
+			(at 112.6841 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TPA313xD2"
+			(at 112.6841 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias"
+			(at 103.124 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpa3131d2.pdf"
+			(at 102.87 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TPA313xD2 4-W, 25-W Filter-Free Class-D Stereo Amplifier With AM Avoidance"
+			(at 103.124 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "21"
+			(uuid "6b11b47c-35df-4b64-bd43-133db2bbefa5")
+		)
+		(pin "13"
+			(uuid "3f3fb637-8049-427d-a106-effbedf22a8d")
+		)
+		(pin "30"
+			(uuid "a98d7882-eda2-4e3f-b59c-eafdccebeb94")
+		)
+		(pin "2"
+			(uuid "fa052290-c38a-4635-b99a-9e4245e4817b")
+		)
+		(pin "1"
+			(uuid "8e8728d0-0bfa-4bc5-ae3e-b33a11dbbfd2")
+		)
+		(pin "23"
+			(uuid "0b05db05-73b3-487c-803e-f0c1d7e67d92")
+		)
+		(pin "24"
+			(uuid "fb6df8be-be3c-4bb8-8c12-4c926cae8d75")
+		)
+		(pin "22"
+			(uuid "0cf1688d-38d4-490e-8a44-f691c8674814")
+		)
+		(pin "29"
+			(uuid "36c38db7-8367-44c0-b778-55f5a60406e5")
+		)
+		(pin "31"
+			(uuid "29773dee-77f7-4145-a65c-1078b9d820ac")
+		)
+		(pin "33"
+			(uuid "f7d6e3d8-688b-49d0-9c44-955ae293a414")
+		)
+		(pin "4"
+			(uuid "5b21529b-ab28-4861-823b-52eb22a26c04")
+		)
+		(pin "15"
+			(uuid "1f63632c-9adf-4d67-ba99-3ee3aa27176c")
+		)
+		(pin "12"
+			(uuid "72766451-a1cf-4ac9-aa11-3aa0825761df")
+		)
+		(pin "17"
+			(uuid "cb3dc1fd-2359-40e1-a1b0-ea51652f3b19")
+		)
+		(pin "20"
+			(uuid "bee41aef-f26b-45ba-b41a-f9a662661684")
+		)
+		(pin "25"
+			(uuid "c6698304-c6e6-48a8-ad42-1d6c0a5c8d72")
+		)
+		(pin "27"
+			(uuid "2381e410-3069-4dd3-84fd-f81bc4d0159f")
+		)
+		(pin "19"
+			(uuid "a4e8dc9a-99ec-4017-9233-9715d06ab9d4")
+		)
+		(pin "28"
+			(uuid "8b4a60ad-b4d6-4206-978a-26bb16eb1c64")
+		)
+		(pin "5"
+			(uuid "af775cb8-1791-46d6-b779-a9ea58f17458")
+		)
+		(pin "6"
+			(uuid "e658313b-76d0-4e0a-a87f-17c8bf15a7fb")
+		)
+		(pin "14"
+			(uuid "2b67dfd6-ac8f-4728-b382-3606e1bc6bb3")
+		)
+		(pin "32"
+			(uuid "43ae75fb-ea96-4779-a833-f1d55827d4ec")
+		)
+		(pin "7"
+			(uuid "d797619b-a825-4285-bfd3-76fa5a9b5dbc")
+		)
+		(pin "8"
+			(uuid "96c89681-6abf-46f3-a9dd-af8c51937db1")
+		)
+		(pin "16"
+			(uuid "9c2e3a92-3ee3-48e6-be85-c5672f88b72a")
+		)
+		(pin "18"
+			(uuid "21ad949f-109f-4861-ab1b-0d91f90275ab")
+		)
+		(pin "9"
+			(uuid "aea50946-64b2-4c57-bf71-6663f393ee63")
+		)
+		(pin "10"
+			(uuid "1155d324-9fcb-4a1c-b61b-811fc1f5a4a3")
+		)
+		(pin "11"
+			(uuid "5e725642-7835-46b7-b2c5-432387c9b2c0")
+		)
+		(pin "26"
+			(uuid "48313e89-57d0-4cf5-8e31-4407d77e28b8")
+		)
+		(pin "3"
+			(uuid "de10f909-827d-4253-8124-9f0003abc888")
+		)
+		(instances
+			(project "AudioBrick_ampD"
+				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -1177,7 +1178,7 @@
 			)
 		)
 		(instances
-			(project "AudioBrick_D-amp"
+			(project "AudioBrick_ampD"
 				(path "/7a0d4908-d3e5-4771-a1a0-5c33a77171a0"
 					(reference "H3")
 					(unit 1)
