@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AudioBrick_D-amp.kicad_pro",
+    "filename": "AudioBrick_ampD.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -536,6 +536,12 @@
           "group_by": false,
           "label": "Opis",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Pole5",
+          "name": "Pole5",
           "show": false
         }
       ],
